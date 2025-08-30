@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarawy&label=Profile%20views&color=0e75b6&style=flat" alt="sarawy" /> </p>
 
-- 💬 **Passionate and results-driven Software Engineer with 3+ years of experience, specializing in desktop and mobile application development, automation, and database management. I have worked on a variety of projects as a freelancer, delivering high-quality software solutions tailored to clients' needs.**
+- 💬 **Passionate and results-driven Software Engineer with 4+ years of experience, specializing in desktop and mobile application development, automation, and database management. I have worked on a variety of projects as a freelancer, delivering high-quality software solutions tailored to clients' needs.**
 
 - 📫 How to reach me **mostafa2013.abozeid@gmail.com**
 
