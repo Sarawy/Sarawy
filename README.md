@@ -5,7 +5,7 @@
 
 - 💬 **Passionate and results-driven Software Engineer with 4+ years of experience, specializing in desktop and mobile application development, automation, and database management. I have worked on a variety of projects as a freelancer, delivering high-quality software solutions tailored to clients' needs.**
 
-- 📫 How to reach me **mostafa2013.abozeid@gmail.com**
+- 📫 How to reach me **mostafa2013.abozeid@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
